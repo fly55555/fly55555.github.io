@@ -865,7 +865,7 @@ cusdis:
 # Based on GitHub Discussions, similar to Utterances
 # See: https://giscus.app/
 giscus:
-  repo: Inori/inori.github.io
+  repo: fly55555/fly55555.github.io
   repo-id: R_kgDOJ9jv9w
   category: Announcements
   category-id: DIC_kwDOJ9jv984CYCC-
